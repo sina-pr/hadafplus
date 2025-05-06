@@ -1,0 +1,21 @@
+.form-item {
+  @apply mb-5 relative;
+}
+
+.form-label {
+  @apply flex items-center font-semibold mb-1;
+
+  &.invalid {
+    @apply text-red-500;
+  }
+}
+
+.form-explain {
+  @apply text-red-500 absolute  text-sm;
+}
+
+.form-container {
+  &.inline {
+    @apply md:flex items-center;
+  }
+}
