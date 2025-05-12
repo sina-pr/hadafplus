@@ -46,10 +46,13 @@ The core requirement was to build an SPA to display a list of domains. Users sho
 ## Interview Assessment Outcome
 
 - **Result**: `REJECTED`
-- **Reason/Feedback**:
-  ```
-  Unfortunately, no feedback or explanation was provided — which is, frankly, what one might expect from an unprofessional company. 
-  Lesson learned: be cautious when dealing with small organizations that lack transparency and respect for contributors time.
-  ```
 
+### 🗨️ Feedback from the Company
+
+> “Your test project received a strong technical score — even higher than some candidates selected for interviews.  
+> However, we decided not to proceed due to your location. Although the position is currently remote,  
+> there’s a chance it may switch to hybrid (on-site in Mashhad) in the near future.”
 ---
+## ⚠️ Personal Feedback
+
+The role was advertised as fully remote, but after completing the assessment, they said it might become hybrid and rejected me based on location. A clear waste of time.
