@@ -45,12 +45,11 @@ The core requirement was to build an SPA to display a list of domains. Users sho
 
 ## Interview Assessment Outcome
 
-- **Result**: `_________________________` (e.g., Success / Reject / Pending)
+- **Result**: `REJECTED`
 - **Reason/Feedback**:
   ```
-  ________________________________________________________________________________
-  ________________________________________________________________________________
-  ________________________________________________________________________________
+  Unfortunately, no feedback or explanation was provided — which is, frankly, what one might expect from an unprofessional company. 
+  Lesson learned: be cautious when dealing with small organizations that lack transparency and respect for contributors time.
   ```
 
 ---
